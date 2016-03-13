@@ -1,6 +1,8 @@
 {
     "name": "behzad900/Hello-code",
-                "version": "1.0"
+                "version": "1.0",
+                    "minimum-stability": "dev"
+
 
      
      
